@@ -225,7 +225,7 @@ li>a:focus
     height: 648px;
     margin-top: 94px;
 
-    background:var(--team-item-bg-color);
+    background:var(--team-bg-color);
 }
 
 .team h2{
